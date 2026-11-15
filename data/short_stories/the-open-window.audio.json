@@ -1,0 +1,344 @@
+{
+  "slug": "the-open-window",
+  "model_family": "LTX-2",
+  "rendered": false,
+  "status_ko": "스크립트 개정 완료. GPU 영상 생성 전이며 기존 MP4에는 새 대사가 반영되지 않았습니다.",
+  "scenes": [
+    {
+      "scene_id": "1_1",
+      "source_scene_id": "the-open-window-001-001",
+      "chapter": 1,
+      "scene_number": 1,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "My aunt will be down presently, Mr. Nuttel,",
+        "text_ko": "숙모는 곧 내려오실 거예요, 너틀 씨."
+      },
+      "continuity_notes_ko": "원문 첫 장면부터 이어진다. 베라 15세와 프램턴의 고정 외양을 유지한다. 대사 이후의 인사는 번역에 모두 남기고 발화는 짧은 첫 인사만 선택한다. 모자·지팡이는 방문객 의자 옆에 있다."
+    },
+    {
+      "scene_id": "1_2",
+      "source_scene_id": "the-open-window-001-002",
+      "chapter": 1,
+      "scene_number": 2,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "none",
+        "text_en": "A close uneasy breath, a soft suit-fabric rustle and a distant garden bird are audible.",
+        "text_ko": "가까운 곳의 불안한 숨소리, 수트 옷감이 스치는 소리, 멀리 정원의 새소리가 들린다."
+      },
+      "continuity_notes_ko": "내면의 요양 불안을 현재의 실패한 응대와 긴장한 자세로 옮긴다. 이 장면에는 새 대사를 만들지 않는다. 소개장·누나의 설명은 다음 장면에서 이어진다."
+    },
+    {
+      "scene_id": "1_3",
+      "source_scene_id": "the-open-window-001-003",
+      "chapter": 1,
+      "scene_number": 3,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Framton’s Sister",
+        "text_en": "I shall just give you letters of introduction to all the people I know there.",
+        "text_ko": "내가 거기서 아는 사람들 모두에게 소개장을 써 줄게."
+      },
+      "continuity_notes_ko": "누나의 한 문장만 현재 화면 위의 회상 음성으로 들린다. 누나의 모습이나 과거 장면은 추가하지 않는다. 소개장을 펼치는 동작은 현재 방문 상황을 연결하는 제작 연출이며 글씨는 보이지 않는다."
+    },
+    {
+      "scene_id": "1_4",
+      "source_scene_id": "the-open-window-001-004",
+      "chapter": 1,
+      "scene_number": 4,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Framton Nuttel",
+        "text_en": "Hardly a soul,",
+        "text_ko": "거의 아무도 모릅니다."
+      },
+      "continuity_notes_ko": "질문과 누나·목사관·4년 전 사정까지 원문 번역에 남긴다. 짧은 실제 발화는 프램턴의 고립을 드러내는 답이다. 베라는 이를 허구를 믿게 할 수 있는 정보로 받아들인다."
+    },
+    {
+      "scene_id": "1_5",
+      "source_scene_id": "the-open-window-001-005",
+      "chapter": 1,
+      "scene_number": 5,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "Then you know practically nothing about my aunt?",
+        "text_ko": "그렇다면 저희 숙모에 대해서는 사실상 아무것도 모르시는군요?"
+      },
+      "continuity_notes_ko": "질문에 대한 프램턴의 무지를 행동으로 확정한다. 남편·형제는 아직 화면에 없고 집안 사정을 알아내는 외부 설명도 없다."
+    },
+    {
+      "scene_id": "1_6",
+      "source_scene_id": "the-open-window-001-006",
+      "chapter": 1,
+      "scene_number": 6,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "Her great tragedy happened just three years ago,",
+        "text_ko": "숙모가 큰 비극을 겪으신 건 딱 삼 년 전이에요."
+      },
+      "continuity_notes_ko": "익사 비극은 베라가 지어낸 거짓말이다. 이 말에 방문객이 동요하는 인과를 보여주되 비극 자체의 과거 재연이나 초자연적 화면은 없다."
+    },
+    {
+      "scene_id": "1_7",
+      "source_scene_id": "the-open-window-001-007",
+      "chapter": 1,
+      "scene_number": 7,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "You may wonder why we keep that window wide open on an October afternoon,",
+        "text_ko": "시월 오후에 왜 저 창을 활짝 열어 놓는지 이상하게 생각하실지도 모르겠네요."
+      },
+      "continuity_notes_ko": "큰 프랑스식 창은 사람이 드나드는 문 역할을 한다. 잔디밭에는 아직 사냥꾼이나 개가 없다. 프램턴의 계절·창에 대한 질문도 한국어 원문 번역에 모두 포함한다."
+    },
+    {
+      "scene_id": "1_8",
+      "source_scene_id": "the-open-window-001-008",
+      "chapter": 1,
+      "scene_number": 8,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "they were all three engulfed in a treacherous piece of bog.",
+        "text_ko": "세 분 모두 위험한 늪에 빠지고 말았어요."
+      },
+      "continuity_notes_ko": "이 구간 전체는 베라의 허구이며 첫 따옴표가 다음 장면으로 이어진다. 세 남자의 실제 죽음·물·시신·늪 화면을 만들지 않는다. 원문에서 이어지는 정확한 영어 구절을 베라가 직접 말한다."
+    },
+    {
+      "scene_id": "1_9",
+      "source_scene_id": "the-open-window-001-009",
+      "chapter": 1,
+      "scene_number": 9,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "That is why the window is kept open every evening till it is quite dusk.",
+        "text_ko": "그래서 매일 저녁 거의 캄캄해질 때까지 창을 열어 두는 거예요."
+      },
+      "continuity_notes_ko": "감정은 꾸민 슬픔이며 잃어버린 개와 남편 이야기도 허구다. 실제 창밖에는 아무도 없다. 베라의 기본 목소리는 유지하고 떨림만 연기한다."
+    },
+    {
+      "scene_id": "1_10",
+      "source_scene_id": "the-open-window-001-010",
+      "chapter": 1,
+      "scene_number": 10,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "I almost get a creepy feeling that they will all walk in through that window—",
+        "text_ko": "그분들이 모두 저 창으로 걸어 들어올 것만 같은 오싹한 느낌이 들어요—"
+      },
+      "continuity_notes_ko": "흰 외투와 로니의 노래를 말한 전체 원문은 한국어 번역에 남긴다. 이 장면의 발화는 마지막 불길한 예감이며, 거짓말의 과거 장면을 재연하지 않는다. 실제 외투는 귀환 때 남편 어깨에 나타난다."
+    },
+    {
+      "scene_id": "1_11",
+      "source_scene_id": "the-open-window-001-011",
+      "chapter": 1,
+      "scene_number": 11,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Mrs Sappleton",
+        "text_en": "I hope Vera has been amusing you?",
+        "text_ko": "베라가 재미있게 해 드렸기를 바라요."
+      },
+      "continuity_notes_ko": "숙모 입장으로 장면의 분위기가 실제로 전환된다. 세 인물의 고정 의상은 그대로다. 프램턴의 대답도 번역에 포함하지만 이 클립에서는 숙모 한 명만 발화한다."
+    },
+    {
+      "scene_id": "1_12",
+      "source_scene_id": "the-open-window-001-012",
+      "chapter": 1,
+      "scene_number": 12,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Mrs Sappleton",
+        "text_en": "my husband and brothers will be home directly from shooting, and they always come in this way.",
+        "text_ko": "남편하고 남동생들이 사냥을 마치고 곧 돌아올 텐데, 늘 이쪽으로 들어오거든요."
+      },
+      "continuity_notes_ko": "숙모가 살아 있는 가족을 기다린다는 실제 사정이 들린다. 베라의 거짓말 때문에 프램턴만 다르게 받아들인다. 창문과 카펫은 같은 위치이며 사냥 장면을 추가하지 않는다."
+    },
+    {
+      "scene_id": "1_13",
+      "source_scene_id": "the-open-window-001-013",
+      "chapter": 1,
+      "scene_number": 13,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "none",
+        "text_en": "The clock ticks, a cup softly meets its saucer, and Framton draws a frustrated breath beneath distant garden birds.",
+        "text_ko": "시계 초침과 찻잔이 받침에 닿는 작은 소리, 멀리 정원의 새소리 아래 프램턴의 답답한 숨소리가 들린다."
+      },
+      "continuity_notes_ko": "반복적인 표정만 찍지 않고 관심을 되찾으려는 방문객과 창밖을 보는 숙모의 행동 충돌을 보여준다. 원문의 비극적인 기념일은 프램턴이 믿는 해석이지 실제 사건이 아니다."
+    },
+    {
+      "scene_id": "1_14",
+      "source_scene_id": "the-open-window-001-014",
+      "chapter": 1,
+      "scene_number": 14,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Framton Nuttel",
+        "text_en": "The doctors agree in ordering me complete rest, an absence of mental excitement,",
+        "text_ko": "의사들은 제게 절대적인 휴식을 취하고 정신적으로 흥분하는 일을 피하라고 하는 데에는 의견이 같습니다."
+      },
+      "continuity_notes_ko": "실제 의사·병원 화면 없이 현재의 장황한 설명을 보여준다. 원문에서 연속된 첫 13단어를 발화하고 신체 운동·식이요법·서술자의 풍자는 번역에 모두 남긴다. 원문 쉼표에서 호흡을 마친다."
+    },
+    {
+      "scene_id": "1_15",
+      "source_scene_id": "the-open-window-001-015",
+      "chapter": 1,
+      "scene_number": 15,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Mrs Sappleton",
+        "text_en": "No?",
+        "text_ko": "그런가요?"
+      },
+      "continuity_notes_ko": "한 단어의 사회적 응답 뒤 관심이 창밖으로 옮겨 가는 원인을 보여준다. 사냥꾼은 아직 프레임 밖에 있다. 유령 공포가 아니라 평범한 가족 인식이다."
+    },
+    {
+      "scene_id": "1_16",
+      "source_scene_id": "the-open-window-001-016",
+      "chapter": 1,
+      "scene_number": 16,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Mrs Sappleton",
+        "text_en": "Here they are at last!",
+        "text_ko": "드디어 왔네요!"
+      },
+      "continuity_notes_ko": "도착 사실을 대사로 선명하게 알린다. 진흙과 차 시간까지 번역에 남긴다. 실제로 가족을 반기는 숙모의 밝은 목소리를 유지한다."
+    },
+    {
+      "scene_id": "1_17",
+      "source_scene_id": "the-open-window-001-017",
+      "chapter": 1,
+      "scene_number": 17,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "none",
+        "text_en": "Framton takes a sharp breath, his chair scrapes briefly, and ordinary footsteps approach across the lawn.",
+        "text_ko": "프램턴이 숨을 들이켜고 의자가 짧게 끌리며, 잔디밭에서는 평범한 발걸음이 다가온다."
+      },
+      "continuity_notes_ko": "인과는 숙모의 귀가 선언→베라의 공포 연기→프램턴의 잘못된 확신이다. 베라의 감정은 연기이며 초자연적 대상은 없다. 무서운 환청 효과를 추가하지 않는다."
+    },
+    {
+      "scene_id": "1_18",
+      "source_scene_id": "the-open-window-001-018",
+      "chapter": 1,
+      "scene_number": 18,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Ronnie",
+        "text_en": "I said, Bertie, why do you bound?",
+        "text_ko": "내가 그랬잖아, 버티, 왜 그렇게 펄쩍 뛰어?"
+      },
+      "continuity_notes_ko": "원문의 노래가 귀로도 베라의 앞선 설명과 일치해 프램턴의 오해를 완성한다. 세 남자는 유령이 아니다. 총 세 자루는 운반만 하며 외투는 남편 어깨, 개는 갈색 스패니얼 한 마리다. 버티를 다른 형제의 확정 이름으로 삼지 않는다."
+    },
+    {
+      "scene_id": "1_19",
+      "source_scene_id": "the-open-window-001-019",
+      "chapter": 1,
+      "scene_number": 19,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "none",
+        "text_en": "Rapid uneven shoes crunch on gravel, the walking stick knocks once against his coat, and his breath comes fast.",
+        "text_ko": "불규칙한 빠른 발걸음이 자갈을 밟고 지팡이가 외투에 한 번 부딪히며 가쁜 숨소리가 이어진다."
+      },
+      "continuity_notes_ko": "프램턴의 건강상 안정 요구와 반대되는 도주가 실제 행동으로 터진다. 모자·지팡이는 모두 들고 나갔으며 응접실에 남지 않는다. 장소는 실제 현관→진입로→대문이고 컷 전환은 없다."
+    },
+    {
+      "scene_id": "1_20",
+      "source_scene_id": "the-open-window-001-020",
+      "chapter": 1,
+      "scene_number": 20,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "none",
+        "text_en": "A bicycle tire scrapes the road, branches crackle and the startled rider exhales as he steadies himself.",
+        "text_ko": "자전거 타이어가 길을 스치고 나뭇가지가 바스락거리며, 놀란 사람이 몸을 지탱하면서 숨을 내쉰다."
+      },
+      "continuity_notes_ko": "자전거 장면은 프램턴의 도주가 바깥까지 끼친 영향을 보여준다. 원문에 없는 부상·실제 충돌·넘어짐은 만들지 않는다. 프램턴은 화면 밖에 있어 외양 중복이 없다."
+    },
+    {
+      "scene_id": "1_21",
+      "source_scene_id": "the-open-window-001-021",
+      "chapter": 1,
+      "scene_number": 21,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Mr Sappleton",
+        "text_en": "Who was that who bolted out as we came up?",
+        "text_ko": "우리가 다가오니까 내달리던 저 사람은 누구요?"
+      },
+      "continuity_notes_ko": "살아 있는 남편의 평범한 질문으로 유령 오해를 해소한다. 정확히 사냥꾼 3명과 개 1마리이며 총은 운반만 한다. 흰 외투는 남편 어깨에 계속 있다."
+    },
+    {
+      "scene_id": "1_22",
+      "source_scene_id": "the-open-window-001-022",
+      "chapter": 1,
+      "scene_number": 22,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Mrs Sappleton",
+        "text_en": "One would think he had seen a ghost.",
+        "text_ko": "유령이라도 본 사람 같았다니까요."
+      },
+      "continuity_notes_ko": "숙모는 베라의 거짓말을 몰라 이 말을 비유로 한다. 실제 유령이나 과거 사건을 보여주지 않는다. 빈 의자 옆에 모자·지팡이가 다시 생기지 않게 한다."
+    },
+    {
+      "scene_id": "1_23",
+      "source_scene_id": "the-open-window-001-023",
+      "chapter": 1,
+      "scene_number": 23,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Vera",
+        "text_en": "He was once hunted into a cemetery somewhere on the banks of the Ganges by a pack of pariah dogs,",
+        "text_ko": "한 번은 갠지스강가 어딘가에 있는 묘지로 들개 떼에 쫓겨 들어가셨대요."
+      },
+      "continuity_notes_ko": "베라의 두 번째 허구를 베라 자신의 직접 발화로 들려준다. 연속된 원문 구절 20단어를 12초에 배치해 약 1.7단어/초로 말한다. 인도·묘지·무덤·개 떼를 실제 사건처럼 재연하지 않는다. 번역에는 원문의 나머지 개 공포·밤샘·으르렁거림·결론까지 모두 남긴다."
+    },
+    {
+      "scene_id": "1_24",
+      "source_scene_id": "the-open-window-001-024",
+      "chapter": 1,
+      "scene_number": 24,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "Romance at short notice was her speciality.",
+        "text_ko": "그녀의 특기는 즉석에서 이야기를 꾸며 내는 것이었다."
+      },
+      "continuity_notes_ko": "마지막 원문 한 문장만 서술자가 읽어 반전을 확정한다. 이 작품의 romance는 연애가 아니라 지어낸 이야기다. 베라는 악역 표정을 짓지 않으며 초자연적 사건은 발생하지 않았다."
+    }
+  ]
+}

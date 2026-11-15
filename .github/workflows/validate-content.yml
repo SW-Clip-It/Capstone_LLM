@@ -1,0 +1,22 @@
+name: Validate LTX-2 scripts
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Verify all 84 scenes
+        run: python3 -B tools/verify_short_stories.py
+      - name: Check generator without loading a model
+        run: python3 -B -m unittest discover -s tests -v
+      - name: Check publisher without cloud access
+        run: python3 -B -m unittest discover -s integrations/content-publisher/tests -v

@@ -1,0 +1,428 @@
+{
+  "slug": "the-gift-of-the-magi",
+  "model_family": "LTX-2",
+  "rendered": false,
+  "status_ko": "스크립트 개정 완료. GPU 영상 생성 전이며 기존 MP4에는 새 대사가 반영되지 않았습니다.",
+  "scenes": [
+    {
+      "scene_id": "1_1",
+      "source_scene_id": "the-gift-of-the-magi-001-001",
+      "chapter": 1,
+      "scene_number": 1,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies.",
+        "text_ko": "1달러 87센트. 가진 돈은 그것뿐이었다. 그중 60센트는 1센트짜리 동전이었다."
+      },
+      "continuity_notes_ko": "첫 문장부터 시작한다. 동전의 총액이나 액면을 읽히게 하지 않는다. 긴 갈색머리는 올려 묶은 상태이며 체인과 빗은 아직 없다."
+    },
+    {
+      "scene_id": "1_2",
+      "source_scene_id": "the-gift-of-the-magi-001-002",
+      "chapter": 1,
+      "scene_number": 2,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "동전 세기 뒤 소파에 엎드리는 현재 행동이다. 이어지는 집세·살림에 관한 서술은 낡은 공간으로 받으며 숫자나 임대료 안내문은 보여 주지 않는다."
+    },
+    {
+      "scene_id": "1_3",
+      "source_scene_id": "the-gift-of-the-magi-001-003",
+      "chapter": 1,
+      "scene_number": 3,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "원문의 현관·우편함·벨·이름표 설명을 담는다. 이름표의 글자는 읽을 수 없게 한다. 짐의 귀가와 포옹에 관한 일반적 서술을 현재의 귀가 사건으로 재연하지 않는다."
+    },
+    {
+      "scene_id": "1_4",
+      "source_scene_id": "the-gift-of-the-magi-001-004",
+      "chapter": 1,
+      "scene_number": 4,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "Tomorrow would be Christmas Day, and she had only $1.87 with which to buy Jim a present.",
+        "text_ko": "내일은 크리스마스인데, 짐에게 줄 선물을 살 돈은 겨우 1달러 87센트뿐이었다."
+      },
+      "continuity_notes_ko": "울음을 그친 뒤 파우더 천을 손에 든 상태다. 회색 고양이와 울타리는 원문 요소이며 선물은 아직 구입하지 않았다. 내레이터가 다음 날 크리스마스와 선물 예산을 짧게 연결한다. 달러 표기는 영어로 자연스럽게 읽는다."
+    },
+    {
+      "scene_id": "1_5",
+      "source_scene_id": "the-gift-of-the-magi-001-005",
+      "chapter": 1,
+      "scene_number": 5,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "거울 설명 뒤 머리를 푸는 장면으로 연결한다. 무릎 아래로 내려오는 갈색머리이며 아직 자르거나 팔지 않았다."
+    },
+    {
+      "scene_id": "1_6",
+      "source_scene_id": "the-gift-of-the-magi-001-006",
+      "chapter": 1,
+      "scene_number": 6,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "One was Jim’s gold watch that had been his father’s and his grandfather’s. The other was Della’s hair.",
+        "text_ko": "하나는 짐의 아버지와 할아버지에게서 물려받은 금시계였다. 다른 하나는 델라의 머리카락이었다."
+      },
+      "continuity_notes_ko": "시계와 머리카락이 부부의 자랑이라는 서술은 머리의 질감과 망설임으로 표현한다. 시바 여왕·솔로몬은 실제 등장시키지 않는다. 시계를 현시점 소품으로 놓거나 판매를 선공개하지 않는다. 금시계와 머리카락이라는 두 보물은 원문 인용 내레이션으로만 설명하며 현재 시계 소품을 추가하지 않는다."
+    },
+    {
+      "scene_id": "1_7",
+      "source_scene_id": "the-gift-of-the-magi-001-007",
+      "chapter": 1,
+      "scene_number": 7,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "외출복은 원문의 오래된 갈색 재킷과 갈색 모자다. 머리는 묶어 모자 아래 정리한 상태이며 소품은 아직 사지 않았다."
+    },
+    {
+      "scene_id": "1_8",
+      "source_scene_id": "the-gift-of-the-magi-001-008",
+      "chapter": 1,
+      "scene_number": 8,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "Will you buy my hair?",
+        "text_ko": "제 머리카락을 사시겠어요?"
+      },
+      "continuity_notes_ko": "가게 간판은 배경의 식별 불가능한 형태만 남긴다. 소프로니의 체격·창백함·냉랭함은 원문, 회색 쪽머리와 검은 옷은 제작 디자인이다. 머리 매입 대사 중 델라의 질문을 실제 발화하고 모자를 벗는다."
+    },
+    {
+      "scene_id": "1_9",
+      "source_scene_id": "the-gift-of-the-magi-001-009",
+      "chapter": 1,
+      "scene_number": 9,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Madame Sofronie",
+        "text_en": "Twenty dollars",
+        "text_ko": "20달러."
+      },
+      "continuity_notes_ko": "소프로니가 긴 머리를 들어 값을 매기며 델라가 즉시 수락하는 구간이다. 가격을 화면에 표시하지 않는다. 실제 절단 과정은 원문에 없으므로 이 장면에서는 가위를 들거나 절단을 묘사하지 않는다. 다음 장면부터 판매 후 짧은 머리로 전환한다. 소프로니만 “Twenty dollars”라고 말한다. 델라의 즉시 수락은 표정으로 받고 해당 대사 전체는 한국어 본문에 보존한다."
+    },
+    {
+      "scene_id": "1_10",
+      "source_scene_id": "the-gift-of-the-magi-001-010",
+      "chapter": 1,
+      "scene_number": 10,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "She was ransacking the stores for Jim’s present.",
+        "text_ko": "델라는 짐에게 줄 선물을 찾느라 가게란 가게는 샅샅이 뒤지고 있었다."
+      },
+      "continuity_notes_ko": "원문이 생략한 머리 판매·절단은 이미 끝났다. 아직 귀가하여 고데질하기 전이므로 짧게 잘린 머리이며 조밀한 곱슬 완성 상태를 미리 만들지 않는다. 상점 간판·가격표는 읽을 수 없게 한다."
+    },
+    {
+      "scene_id": "1_11",
+      "source_scene_id": "the-gift-of-the-magi-001-011",
+      "chapter": 1,
+      "scene_number": 11,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "Twenty-one dollars they took from her for it, and she hurried home with the 87 cents.",
+        "text_ko": "가게에서는 그 값으로 21달러를 받았고, 델라는 남은 87센트를 지닌 채 서둘러 집으로 돌아왔다."
+      },
+      "continuity_notes_ko": "장식이 없는 단정한 백금 회중시계 체인이다. 금시계나 낡은 가죽끈과 연결하지 않으며 가격·잔돈 수치를 읽히게 하지 않는다. 현재 시점의 짐이나 그의 판매 행위는 보여 주지 않는다. 구매 금액 내레이션은 이 구간의 거래와 귀가를 잇는 원문 인용이다. 영상 자체는 상점의 체인 선택과 손바닥 구도로 유지한다."
+    },
+    {
+      "scene_id": "1_12",
+      "source_scene_id": "the-gift-of-the-magi-001-012",
+      "chapter": 1,
+      "scene_number": 12,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "귀가 후 갈색 모자와 재킷은 벗은 상태다. 현대 전기 고데기 대신 가스로 데운 당시 도구를 쓴다. 이후 머리는 짧고 촘촘하게 붙은 갈색 곱슬로 고정한다."
+    },
+    {
+      "scene_id": "1_13",
+      "source_scene_id": "the-gift-of-the-magi-001-013",
+      "chapter": 1,
+      "scene_number": 13,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "But what could I do—oh! what could I do with a dollar and eighty-seven cents?",
+        "text_ko": "하지만 내가 어쩔 수 있었겠어. 아, 1달러 87센트를 가지고 뭘 할 수 있었겠어?"
+      },
+      "continuity_notes_ko": "고데질이 끝난 상태다. 자기평가와 짐의 반응에 대한 걱정은 눈빛으로 표현하며 코니아일랜드나 환상 속 짐의 폭력 등 대사의 가정은 실제 장면으로 만들지 않는다. 델라가 자기 자신에게 원문 질문을 실제로 말한다. 폭력은 가정적 표현이며 시각화하지 않는다."
+    },
+    {
+      "scene_id": "1_14",
+      "source_scene_id": "the-gift-of-the-magi-001-014",
+      "chapter": 1,
+      "scene_number": 14,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "커피는 준비됐지만 돼지갈비는 아직 팬에 올리지 않았다. 시계판이나 숫자로 시각을 표시하지 않는다. 델라가 새 요리를 하거나 식사를 차리는 추가 사건은 넣지 않는다."
+    },
+    {
+      "scene_id": "1_15",
+      "source_scene_id": "the-gift-of-the-magi-001-015",
+      "chapter": 1,
+      "scene_number": 15,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "Please God, make him think I am still pretty.",
+        "text_ko": "하느님, 제발 그이가 저를 아직 예쁘다고 생각하게 해 주세요."
+      },
+      "continuity_notes_ko": "체인은 손 안에서 두 겹으로 접혀 있으며 시계와 연결되지 않는다. 계단 발소리는 환경음으로 들리고 델라는 원문 기도를 실제 영어로 작게 속삭인다. 짐은 아직 화면에 없다. 문 곁 테이블과 출입문 위치를 유지한다."
+    },
+    {
+      "scene_id": "1_16",
+      "source_scene_id": "the-gift-of-the-magi-001-016",
+      "chapter": 1,
+      "scene_number": 16,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "짐은 스물두 살의 마른 남자이며 낡은 외투와 맨손을 유지한다. 주머니 속 포장 선물은 아직 드러나지 않는다. 시계의 유무를 강조하거나 판매를 선공개하지 않는다."
+    },
+    {
+      "scene_id": "1_17",
+      "source_scene_id": "the-gift-of-the-magi-001-017",
+      "chapter": 1,
+      "scene_number": 17,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "짐의 표정은 원문대로 분노·혐오·공포로 단정하지 않는 알 수 없는 정지다. 델라는 여전히 문 곁 테이블 모서리에 앉아 있다. 빗 선물은 아직 보이지 않는다."
+    },
+    {
+      "scene_id": "1_18",
+      "source_scene_id": "the-gift-of-the-magi-001-018",
+      "chapter": 1,
+      "scene_number": 18,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "I had my hair cut off and sold because I couldn’t have lived through Christmas without giving you a present.",
+        "text_ko": "머리카락은 잘라서 팔았어요. 당신에게 선물 하나 주지 못한 채로는 크리스마스를 견딜 수가 없었거든요."
+      },
+      "continuity_notes_ko": "테이블에서 내려와 짐에게 다가가는 한 행동으로 머리를 팔았다는 설명을 받는다. 체인은 손 안에 가려 두며 아직 선물로 내밀지 않는다. 키 변화·머리 재성장·새 인물은 없다. 델라의 머리 판매와 선물 동기를 실제 영어 립싱크 대사로 전달한다. 짐은 듣기만 한다."
+    },
+    {
+      "scene_id": "1_19",
+      "source_scene_id": "the-gift-of-the-magi-001-019",
+      "chapter": 1,
+      "scene_number": 19,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Jim",
+        "text_en": "You’ve cut off your hair?",
+        "text_ko": "머리카락을 잘랐다고?"
+      },
+      "continuity_notes_ko": "짐의 재차 확인과 델라의 나는 여전히 나라는 호소를 짧은 머리를 가리키는 몸짓으로 표현한다. 시계·빗·판매 장소 회상은 삽입하지 않는다. 이 컷은 짐의 확인 질문 한 줄만 들려준다. 델라의 응답은 전체 한국어 본문에 빠짐없이 남긴다."
+    },
+    {
+      "scene_id": "1_20",
+      "source_scene_id": "the-gift-of-the-magi-001-020",
+      "chapter": 1,
+      "scene_number": 20,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "but nobody could ever count my love for you. Shall I put the chops on, Jim?",
+        "text_ko": "당신을 향한 내 사랑은 아무도 셀 수 없을 거예요. 갈비살을 구울까요, 짐?"
+      },
+      "continuity_notes_ko": "짐은 방을 둘러볼 뿐 델라의 팔린 머리나 숨긴 물건을 실제로 발견하지 않는다. 델라는 사랑을 셀 수 없다는 말과 갈비살을 굽겠다는 원문 제안을 실제 발화하지만 조리를 시작하지 않는다. 체인은 이 컷까지 손 안에 가린다."
+    },
+    {
+      "scene_id": "1_21",
+      "source_scene_id": "the-gift-of-the-magi-001-021",
+      "chapter": 1,
+      "scene_number": 21,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "짐이 정신을 차리고 델라를 안는다. 이야기꾼의 가치와 동방박사 논평도 현재의 포옹에 머문다. 종교적 인물이나 고급 주거공간으로 전환하지 않는다. 포옹과 옷 스치는 소리·안정되는 호흡으로 반응을 전달하고 추가 대사를 쓰지 않는다."
+    },
+    {
+      "scene_id": "1_22",
+      "source_scene_id": "the-gift-of-the-magi-001-022",
+      "chapter": 1,
+      "scene_number": 22,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Jim",
+        "text_en": "But if you’ll unwrap that package you may see why you had me going a while at first.",
+        "text_ko": "하지만 그 꾸러미를 풀어 보면 아까 내가 왜 잠깐 그랬는지 알 수 있을 거야."
+      },
+      "continuity_notes_ko": "외투 주머니에서 꺼낸 종이·끈 포장 선물을 테이블에 놓는다. 델라가 열기 전에는 빗의 내용물이 보이지 않는다. 델라의 체인은 손 안에 계속 감춰 둔다. 짐이 포장을 풀어 보라는 원문 대사를 실제로 말한다. 선물 내용은 아직 은폐한다."
+    },
+    {
+      "scene_id": "1_23",
+      "source_scene_id": "the-gift-of-the-magi-001-023",
+      "chapter": 1,
+      "scene_number": 23,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "포장을 여는 동작과 기쁨에서 눈물로 변하는 반응을 담는다. 비명·울음은 비언어적 감탄과 흐느낌으로 들려준다. 다음 장면의 빗 클로즈업을 위해 내용물은 이 장면 끝에서 완전히 식별시키지 않아도 된다. 원문에 있는 기쁨의 소리에서 울음으로 바뀌는 반응을 실제 비언어적 오디오로 살린다."
+    },
+    {
+      "scene_id": "1_24",
+      "source_scene_id": "the-gift-of-the-magi-001-024",
+      "chapter": 1,
+      "scene_number": 24,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "And now, they were hers, but the tresses that should have adorned the coveted adornments were gone.",
+        "text_ko": "이제 그것들이 델라의 것이 되었다. 하지만 그토록 바라던 장신구를 돋보이게 해 줄 긴 머리카락은 사라지고 없었다."
+      },
+      "continuity_notes_ko": "빗은 옆머리용과 뒷머리용으로 이루어진 대모갑 세트이며 가장자리에 보석 장식이 있다. 현재 테이블 위에 처음 선명하게 보여 준다. 브로드웨이 진열창의 과거는 회상으로 만들지 않으며 짧은 머리에 빗을 꽂지 않는다. 빗은 손에 넣었지만 긴 머리는 없다는 원문 문장을 내레이터가 짧게 설명한다."
+    },
+    {
+      "scene_id": "1_25",
+      "source_scene_id": "the-gift-of-the-magi-001-025",
+      "chapter": 1,
+      "scene_number": 25,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "My hair grows so fast, Jim!",
+        "text_ko": "내 머리는 정말 빨리 자라요, 짐!"
+      },
+      "continuity_notes_ko": "델라는 빗을 가슴에 안으며 젖은 눈으로 미소 짓는다. 머리가 다시 자라는 모습은 보여 주지 않는다. 짐의 외투는 아직 벗었다는 지시가 없으므로 계속 착용한다."
+    },
+    {
+      "scene_id": "1_26",
+      "source_scene_id": "the-gift-of-the-magi-001-026",
+      "chapter": 1,
+      "scene_number": 26,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "Oh, oh!",
+        "text_ko": "아, 아!"
+      },
+      "continuity_notes_ko": "델라가 자기 선물을 떠올리고 일어나 손바닥으로 체인을 내민다. 빗은 동작 연결을 위한 소규모 제작 동선으로 테이블의 펼친 포장지 위에 내려놓는다. 체인은 여전히 시계에 연결되지 않는다."
+    },
+    {
+      "scene_id": "1_27",
+      "source_scene_id": "the-gift-of-the-magi-001-027",
+      "chapter": 1,
+      "scene_number": 27,
+      "duration_seconds": 10,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Della",
+        "text_en": "Give me your watch. I want to see how it looks on it.",
+        "text_ko": "당신 시계를 줘 봐요. 달면 어떤 모습인지 보고 싶어요."
+      },
+      "continuity_notes_ko": "다른 손에 체인을 둔 채 시계를 달라는 몸짓을 한다. 짐이 시계를 꺼내거나 체인을 착용해서는 안 된다. 아직 시계 판매를 시각적 회상이나 설명문으로 드러내지 않는다."
+    },
+    {
+      "scene_id": "1_28",
+      "source_scene_id": "the-gift-of-the-magi-001-028",
+      "chapter": 1,
+      "scene_number": 28,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "ambience",
+        "speaker": "Environment",
+        "text_en": "",
+        "text_ko": ""
+      },
+      "continuity_notes_ko": "시계 요청에 응하는 대신 소파에 몸을 기대며 두 손을 머리 뒤에 둔다. 시계는 등장시키지 않는다. 외투와 장갑 없는 손 상태를 유지한다."
+    },
+    {
+      "scene_id": "1_29",
+      "source_scene_id": "the-gift-of-the-magi-001-029",
+      "chapter": 1,
+      "scene_number": 29,
+      "duration_seconds": 12,
+      "audio": {
+        "mode": "dialogue",
+        "speaker": "Jim",
+        "text_en": "I sold the watch to get the money to buy your combs.",
+        "text_ko": "당신 빗을 살 돈을 마련하려고 시계를 팔았어."
+      },
+      "continuity_notes_ko": "시계를 팔아 빗을 샀다는 원문의 반전을 빈손과 쓸 수 없는 두 선물의 병치로 옮긴다. 소파에 앉은 짐은 손을 머리 뒤에서 앞으로 옮겨 설명한다. 과거 시계 매매나 상인을 새 사건으로 재연하지 않으며 갈비를 이미 굽거나 선물을 수납한 상태로 앞서 가지 않는다. 짐이 시계를 팔았다고 직접 발화하는 최초 장면이다. 발화 뒤 델라의 이해하는 반응을 남긴다."
+    },
+    {
+      "scene_id": "1_30",
+      "source_scene_id": "the-gift-of-the-magi-001-030",
+      "chapter": 1,
+      "scene_number": 30,
+      "duration_seconds": 8,
+      "audio": {
+        "mode": "narration",
+        "speaker": "Narrator",
+        "text_en": "Everywhere they are wisest. They are the magi.",
+        "text_ko": "어디에서든 그들이 가장 지혜롭다. 그들이 바로 동방박사다."
+      },
+      "continuity_notes_ko": "마지막 서술 전체를 현재의 부부와 선물 구도로 유지한다. 동방박사·아기·마구간을 실제로 등장시키지 않는다. 빗은 델라의 머리에 꽂히지 않고 체인에는 시계가 없으며 델라의 짧은 머리는 그대로다. 마지막 두 문장만 원문 인용 내레이션으로 마무리하며 동방박사는 현재 부부를 가리키는 비유로 유지한다."
+    }
+  ]
+}

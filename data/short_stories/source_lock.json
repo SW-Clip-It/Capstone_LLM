@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "source_revision": "Reviewed LTX-2 bilingual handoff, 2026-11-13",
+  "expected_total_scenes": 84,
+  "maintenance": "Fixed reviewed hashes. Do not automatically regenerate this manifest when verification fails. Intentional content edits require review and an explicit manifest update; English-source or scene-partition changes require renewed full-source review.",
+  "works": {
+    "the-gift-of-the-magi": {
+      "scene_count": 30,
+      "source_characters": 11215,
+      "source_story_sha256": "2f1c963abe16e6341f7fb6640d3436636cbdddcf83f3835987ee4998df38ea1c",
+      "metadata": {
+        "title": "The Gift of the Magi",
+        "title_ko": "크리스마스 선물",
+        "author": "O. Henry",
+        "scenes": 30
+      },
+      "source_url": "https://www.gutenberg.org/ebooks/2776",
+      "source_ebook_id": 2776,
+      "files": {
+        "the-gift-of-the-magi.jsonl": "8a5058da4931d8c79e58d13e6f41300d52a7e3933ffd462babfaeb78c3770313",
+        "the-gift-of-the-magi.source-ko.jsonl": "7ea6737f37deb79df9cbe13fa3010c485a503245b4ce3c61a4f569a2d7d7bd41",
+        "the-gift-of-the-magi.audio.json": "f16816ba0aa8ff50c7a5c026be7d655727b0004d095236c88084dbb8d538c0d2"
+      }
+    },
+    "the-open-window": {
+      "scene_count": 24,
+      "source_characters": 6869,
+      "source_story_sha256": "e318f97ae7ca19b26b4c464a975e061023a0de17dd3100b296c843dcbb7579a4",
+      "metadata": {
+        "title": "The Open Window",
+        "title_ko": "열린 창",
+        "author": "Saki",
+        "scenes": 24
+      },
+      "source_url": "https://www.gutenberg.org/ebooks/269",
+      "source_ebook_id": 269,
+      "files": {
+        "the-open-window.jsonl": "80f8fb0e8c07d2056c657e7498232f1d83b84ab63a101a8c525a26c916b07dbc",
+        "the-open-window.source-ko.jsonl": "5508a6d41dc77ee41792e33c69c7eb38e70d54c00e1c585b11687c2040ffb5ed",
+        "the-open-window.audio.json": "49b6cc2f51746c969e45629c3667d51210a35d2ced1d11f296d806ab6381666d"
+      }
+    },
+    "the-selfish-giant": {
+      "scene_count": 30,
+      "source_characters": 8684,
+      "source_story_sha256": "970ad63b411fa24f06f2f7f2bcbd1776254eb81b2605576ffd68694764eee506",
+      "metadata": {
+        "title": "The Selfish Giant",
+        "title_ko": "이기적인 거인",
+        "author": "Oscar Wilde",
+        "scenes": 30
+      },
+      "source_url": "https://www.gutenberg.org/ebooks/902",
+      "source_ebook_id": 902,
+      "files": {
+        "the-selfish-giant.jsonl": "60fe1930d1d2c5eb19847202c6a088f4fd6249934c36881eda380690ef444795",
+        "the-selfish-giant.source-ko.jsonl": "fdd9ab7c5657a1e001f46bfe8d5ed431d60c42dbf12c56e6b1e48e826c94aca1",
+        "the-selfish-giant.audio.json": "af9737699c9f60783b498d4df7182e4b385c5035acaf922fe0ce85958480db3b"
+      }
+    }
+  }
+}

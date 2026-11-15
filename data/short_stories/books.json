@@ -1,0 +1,20 @@
+{
+  "the-gift-of-the-magi": {
+    "title": "The Gift of the Magi",
+    "title_ko": "크리스마스 선물",
+    "author": "O. Henry",
+    "scenes": 30
+  },
+  "the-open-window": {
+    "title": "The Open Window",
+    "title_ko": "열린 창",
+    "author": "Saki",
+    "scenes": 24
+  },
+  "the-selfish-giant": {
+    "title": "The Selfish Giant",
+    "title_ko": "이기적인 거인",
+    "author": "Oscar Wilde",
+    "scenes": 30
+  }
+}
