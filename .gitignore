@@ -1,0 +1,13 @@
+# Private uploader configuration and credentials
+.env*
+**/.env*
+*.pem
+
+# Local Python/Jupyter state
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Generated videos belong in private object storage
+*.mp4

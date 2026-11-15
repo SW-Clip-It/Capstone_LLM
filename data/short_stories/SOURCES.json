@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "the-gift-of-the-magi",
+    "title": "The Gift of the Magi",
+    "author": "O. Henry",
+    "source_url": "https://www.gutenberg.org/ebooks/2776",
+    "source_ebook_id": 2776
+  },
+  {
+    "slug": "the-open-window",
+    "title": "The Open Window",
+    "author": "Saki",
+    "source_url": "https://www.gutenberg.org/ebooks/269",
+    "source_ebook_id": 269
+  },
+  {
+    "slug": "the-selfish-giant",
+    "title": "The Selfish Giant",
+    "author": "Oscar Wilde",
+    "source_url": "https://www.gutenberg.org/ebooks/902",
+    "source_ebook_id": 902
+  }
+]
